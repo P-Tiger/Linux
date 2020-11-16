@@ -1,0 +1,15 @@
+[/]
+auto-save=true
+auto-save-interval=uint32 1
+background-pattern='none'
+bracket-matching=true
+display-line-numbers=true
+display-overview-map=true
+display-right-margin=true
+editor-font='Standard Symbols L 12'
+insert-spaces=true
+scheme='oblivion'
+tabs-size=uint32 4
+use-default-font=true
+wrap-last-split-mode='word'
+wrap-mode='none'
